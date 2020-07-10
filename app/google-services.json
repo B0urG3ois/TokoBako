@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "443107204832",
+    "firebase_url": "https://tokobako-85b2f.firebaseio.com",
+    "project_id": "tokobako-85b2f",
+    "storage_bucket": "tokobako-85b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443107204832:android:834a1de38510ad7f",
+        "android_client_info": {
+          "package_name": "umn.ac.id.uastokobako"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443107204832-d6j59kf2k3n0tkeptgro62i2vmra2lkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "umn.ac.id.uastokobako",
+            "certificate_hash": "473f2e5dc17b1d23bb35bfb802234f310e0d24be"
+          }
+        },
+        {
+          "client_id": "443107204832-iki3ls5ca2o1pn7rnd8aau72td1m2p98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "umn.ac.id.uastokobako",
+            "certificate_hash": "97fc6774233e7445930d4fed4e8f4f1faf3d6378"
+          }
+        },
+        {
+          "client_id": "443107204832-hfso7jis9kdpg8vvvj77en6e1r4m0bh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArb0UwYaEANBI3bMsPcfzYvLE-xqMxk6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443107204832-hfso7jis9kdpg8vvvj77en6e1r4m0bh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
