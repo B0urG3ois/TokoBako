@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/buttonLogout"
+        android:title="Logout"/>
+    <item android:id="@+id/buttonKeranjang"
+        android:title="Keranjang"/>
+    <item android:id="@+id/buttonAdminTambah"
+        android:title="TEMPadmin"/>
+</menu>
